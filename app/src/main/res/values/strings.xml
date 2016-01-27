@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WidgetLauncherApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_configure">ConfigureActivity</string>
+    <string name="title_activity_run">RunActivity</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="menu_insert_widget_label">Add Widget</string>
+    <string name="group_search">Search</string>
+
+    <string name="menu_remove_widget_label">Remove Widget</string>
+    <string name="no_widgets_popup">Add widgets first</string>
+    <string name="widget_removed_popup">The widget was removed!</string>
+    <string name="app_help">Touch menu to add/remove widgets.</string>
+</resources>
